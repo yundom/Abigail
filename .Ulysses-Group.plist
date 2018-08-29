@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>Bon Chon</string>
+	</array>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>Bon Chon</key>
+			<dict>
+				<key>lastModification</key>
+				<real>557252907.62974894</real>
+				<key>version</key>
+				<dict>
+					<key>f3c9c7c4fba82d471d1d4a73b31f8a6eeb2561517c1e1a0569ecf5bf45fdb216</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>f3c9c7c4fba82d471d1d4a73b31f8a6eeb2561517c1e1a0569ecf5bf45fdb216</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
