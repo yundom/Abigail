@@ -8,7 +8,7 @@ Food Court 位在Amari的四樓，中午時段前往會看到許多上班族在�
 
 整個四樓的空間都是Amari Food Court，相較於台灣的美食街來看，這邊的空間相當的大與寬敞，餐廳品項選擇也很豐富，舉凡在地的泰式自助餐、Phad Thai 、豬腳飯、燒臘飯、甜品店、豬排店...等等，都可以在這邊找得到。  
 
-待在曼谷兩個月的時間裡，我造訪這個Food Court大概有20次以上，吃過許多Amari的店，一篇的食記實在介紹不完這邊的特色小吃，我會分兩三篇來跟大家推薦我覺得好吃的幾間店！今天要介紹的是我最常吃的兩間店家，分別是 _Hongtay Steam Duck Noodles_ 的鴨肉麵 & _Nai Muek_的雞肉 Pad Thai。
+待在曼谷兩個月的時間裡，我造訪這個Food Court大概有20次以上，吃過許多Amari的店，一篇的食記實在介紹不完這邊的特色小吃，我會分兩三篇來跟大家推薦我覺得好吃的幾間店！今天要介紹的是我最常吃的兩間店家，分別是 _Hongtay Steam Duck Noodles_ 的鴨肉麵 & _Nai Muek_ 的雞肉 Pad Thai。
 
 ### Hongtay Steam Duck Noodles
 ![](%E9%B4%A8%E8%82%89%E9%BA%B5%E5%BA%97%E5%AE%B6.png)  
